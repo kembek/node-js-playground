@@ -1,0 +1,6 @@
+{
+  "name": "Kembek",
+  "age": 20,
+  "gander": "male",
+  "skills": ["html", "css", "js", "sql", "node"]
+}
